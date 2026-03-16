@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="64" height="64" rx="16" fill="url(#bg)"/>
+  <path d="M18 26c0-2.2 1.8-4 4-4h24c3.9 0 7 3.1 7 7v1h-6v-1c0-.6-.4-1-1-1H22c-.6 0-1 .4-1 1v18c0 .6.4 1 1 1h28c.6 0 1-.4 1-1v-3h6v3c0 3.9-3.1 7-7 7H22c-2.2 0-4-1.8-4-4V26z" fill="#ffffff" opacity="0.92"/>
+  <rect x="40" y="36" width="16" height="10" rx="5" fill="#0ea5a6" opacity="0.95"/>
+  <circle cx="50" cy="41" r="2" fill="#ffffff"/>
+  <text x="36" y="64" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="10" font-weight="800" fill="#ffffff" opacity="0.92">WALLET</text>
+</svg>
